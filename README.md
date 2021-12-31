@@ -8,6 +8,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Kdenlive" src="https://img.shields.io/badge/-Kdenlive-527EB2?style=flat-square&logo=kdenlive&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="Kubuntu" src="https://img.shields.io/badge/-Kubuntu-0079C1?style=flat-square&logo=kubuntu&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -22,7 +23,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />#
+  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
