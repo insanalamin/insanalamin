@@ -11,10 +11,16 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  
+  
 </p>
 
 <!--
+
+<img alt="Vim" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
+
 **insanalamin/insanalamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
