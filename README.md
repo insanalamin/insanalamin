@@ -6,6 +6,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img alt="Kdenlive" src="https://img.shields.io/badge/-Kdenlive-527EB2?style=flat-square&logo=kdenlive&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -36,6 +37,7 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Openlayers" src="https://img.shields.io/badge/-Openlayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" />
+  <img alt="Latex" src="https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white" />
   <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
