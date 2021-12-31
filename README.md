@@ -10,7 +10,7 @@
   <img alt="Kubuntu" src="https://img.shields.io/badge/-Kubuntu-0079C1?style=flat-square&logo=kubuntu&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Node-RED" src="https://img.shields.io/badge/-Node-RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+  <img alt="Node-RED" src="https://img.shields.io/badge/-Node-RED-8F0000?style=flat-square&logo=node-red&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
