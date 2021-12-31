@@ -20,6 +20,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="LMMS" src="https://img.shields.io/badge/-LMMS-10B146?style=flat-square&logo=lmms&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
