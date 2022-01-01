@@ -44,6 +44,7 @@
 
 <!--
 https://simpleicons.org/?q=d3
+https://www.svgrepo.com
 
 <img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
 <img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
