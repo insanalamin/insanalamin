@@ -1,5 +1,9 @@
 <h2>Assalamualaikum, brothers and sisters 👋</h2>
 
+<h3>My Sites</h3>
+[mecha.id - Zero Drop Out Campus](https://mecha.id)
+[Personal Blog](https://insanalamin.github.io)
+
 <h3>My stacks</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
