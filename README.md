@@ -1,8 +1,10 @@
 <h2>Assalamualaikum, brothers and sisters 👋</h2>
 
 <h3>My Sites</h3>
-[mecha.id - Zero Drop Out Campus](https://mecha.id)
-[Personal Blog](https://insanalamin.github.io)
+<ul>
+  <li><a href="https://mecha.id" target="_blank">mecha.id - learning materials, wiki, paper reviews, etc.</a></li>
+  <li><a href="https://insanalamin.github.io" target="_blank">Personal blog</a></li>
+</ul>
 
 <h3>My stacks</h3>
 <p>
