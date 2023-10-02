@@ -3,9 +3,6 @@
 <h3>My activities</h3>
 <ul>
   <li>3 dharma</li>
-  <li><a href="https://marchgis.com" target="_blank">marchGIS - Geospatial Business Intelligence and Command Center</a></li>
-  <li><a href="https://insan.mecha.id" target="_blank">Writing on my personal blog</a></li>
-  <li><a href="https://mecha.id" target="_blank">mecha.id - learning materials, wiki, paper reviews, etc.</a></li>
 </ul>
 
 <h3>My stacks</h3>
