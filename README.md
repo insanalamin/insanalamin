@@ -1,3 +1,8 @@
+## Current Works
+- [mechaway](https://github.com/insanalamin/mechaway)
+- [Sekejap](https://sekejap.life)
+
+<!--
 <h2>Assalamualaikum, brothers and sisters 👋</h2>
 
 <h3>My activities</h3>
@@ -46,28 +51,4 @@
   <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
-
-<!--
-https://simpleicons.org/?q=d3
-https://www.svgrepo.com
-
-<img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
-<img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
-<img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
-<img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
-<img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
-<img alt="<LABEL>" src="https://img.shields.io/badge/-<LABEL>-<KODE_WARNA>?style=flat-square&logo=<LOGO>&logoColor=white" />
-
-**insanalamin/insanalamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
