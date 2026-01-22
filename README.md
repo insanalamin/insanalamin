@@ -1,5 +1,6 @@
 ## Current Works
 - [mechaway](https://github.com/insanalamin/mechaway)
+- [hslreg](https://github.com/insanalamin/hslreg)
 - [Sekejap](https://sekejap.life)
 
 <!--
