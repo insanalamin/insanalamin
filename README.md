@@ -1,5 +1,5 @@
 ## Current Works
-- [zebflow - Reactive Web Development Automation](https://github.com/insanalamin/zebflow)
+- [zebflow - Spatial Fullstack Builder and Automation](https://github.com/zebflow/zebflow)
 - [hslreg - Tiny private single binary Container Registry for single server deployments](https://github.com/insanalamin/hslreg)
 - [sekejap db - Graph-first, embedded multi-model database engine](https://github.com/insanalamin/sekejap)
 - [Sekejap.Life - How far can you remember the past?](https://sekejap.life)
