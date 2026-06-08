@@ -1,7 +1,8 @@
 ## Current Works
 - [zebflow - Spatial Fullstack Builder and Automation](https://github.com/zebflow/zebflow)
-- [hslreg - Tiny private single binary Container Registry for single server deployments](https://github.com/insanalamin/hslreg)
 - [sekejap db - Graph-first, embedded multi-model database engine](https://github.com/insanalamin/sekejap)
+- [geonative - Rust-native geospatial toolkit](https://github.com/zebflow/geonative)
+- [hslreg - Tiny private single binary Container Registry for single server deployments](https://github.com/insanalamin/hslreg)
 - [Sekejap.Life - How far can you remember the past?](https://sekejap.life)
 
 <!--
