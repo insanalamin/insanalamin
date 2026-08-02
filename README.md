@@ -4,7 +4,7 @@
 - [geonative - Rust-native geospatial toolkit](https://github.com/zebflow/geonative)
 - [Mailbourne - A liveable mail server and library](https://github.com/mailbourne/mailbourne)
 - [hslreg - Tiny private single binary Container Registry for single server deployments](https://github.com/insanalamin/hslreg)
-- [Sekejap.Life - How far can you remember the past?](https://sekejap.life)
+<!-- - [Sekejap.Life - How far can you remember the past?](https://sekejap.life) -->
 
 <!--
 <h2>Assalamualaikum, brothers and sisters 👋</h2>
