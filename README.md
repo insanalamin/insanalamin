@@ -3,7 +3,6 @@
 - [sekejap db - Graph-first, embedded multi-model database engine](https://github.com/sekejapdb/sekejap)
 - [IqraViz - Unified GPU-first visualization primitives for charts, GIS, and simulation](https://github.com/insanalamin/iqraviz)
 - [geonative - Rust-native geospatial toolkit](https://github.com/zebflow/geonative)
-- [Mailbourne - A liveable mail server and library](https://github.com/mailbourne/mailbourne)
 <!-- - [hslreg - Tiny private single binary Container Registry for single server deployments](https://github.com/insanalamin/hslreg) -->
 <!-- - [Sekejap.Life - How far can you remember the past?](https://sekejap.life) -->
 
